@@ -1,3 +1,3 @@
 # Flatten Hierarchy
 
-![](./flatten-hierarchy.py)
+![](./flatten-hierarchy.png)
